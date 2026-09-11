@@ -3,7 +3,7 @@ BREEDAI PUBLIC BACKEND
 
 Files:
 - backend.py                 Flask API
-- tnbc6_FINAL_FIXED.py       ConvNeXt model + breed profiles
+- predict_FINAL_FIXED.py       ConvNeXt model + breed profiles
 - requirements.txt           deployment dependencies
 - render.yaml                Render configuration
 

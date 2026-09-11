@@ -4,6 +4,6 @@
 Backend_new/
 app.py
 requirements.txt
-tnbc3.py
-tnbc6_FINAL_FIXED.py
+predict.py
+predict_FINAL_FIXED.py
 __pycache__/

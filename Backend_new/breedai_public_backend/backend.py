@@ -4,7 +4,7 @@ from werkzeug.utils import secure_filename
 import os
 import tempfile
 
-from tnbc6_FINAL_FIXED import predict_breed, get_breed_profile
+from predict_FINAL_FIXED import predict_breed, get_breed_profile
 
 app = Flask(__name__)
 app.config["MAX_CONTENT_LENGTH"] = 10 * 1024 * 1024
