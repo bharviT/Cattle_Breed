@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cattle Breed AI
 
 AI-powered web application for identifying **Indian cattle and buffalo breeds from images** using deep learning.
@@ -132,3 +133,6 @@ Contributions and suggestions are welcome.
 ### Cattle Breed AI
 
 **Computer Vision • Deep Learning • Agriculture • Full-Stack Development**
+=======
+# Cattle_Breed
+>>>>>>> 4eae9f349325642b3905194169522f2d7dd921ae
