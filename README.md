@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cattle Breed AI
 
 AI-powered web application for identifying **Indian cattle and buffalo breeds from images** using deep learning.
